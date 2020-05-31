@@ -314,3 +314,359 @@ Your manifest contains:
   app/views/layouts/application.html.erb:9
 
 Started POST "/__better_errors/1de6ca80767ad0e8/variables" for ::1 at 2020-05-31 11:54:44 +0530
+Started POST "/__better_errors/1de6ca80767ad0e8/variables" for ::1 at 2020-05-31 11:57:21 +0530
+Started GET "/posts" for ::1 at 2020-05-31 11:58:12 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 185)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 634ms (ActiveRecord: 0.0ms | Allocations: 8934)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/2ba68e124ba58d09/variables" for ::1 at 2020-05-31 11:58:12 +0530
+Started GET "/posts" for ::1 at 2020-05-31 11:58:16 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 700ms (ActiveRecord: 0.0ms | Allocations: 4962)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/8c8d3399a0796fe9/variables" for ::1 at 2020-05-31 11:58:16 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:01:06 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 716ms (ActiveRecord: 0.0ms | Allocations: 4960)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/44f50a59708d6fd5/variables" for ::1 at 2020-05-31 12:01:07 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:02:28 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 185)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 755ms (ActiveRecord: 0.0ms | Allocations: 8937)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/70b91fae42c2ad62/variables" for ::1 at 2020-05-31 12:02:29 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:02:31 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 833ms (ActiveRecord: 0.0ms | Allocations: 4962)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/5a5ffbdc020b56f8/variables" for ::1 at 2020-05-31 12:02:32 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:46:59 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 804ms (ActiveRecord: 0.0ms | Allocations: 4961)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/7c875c9837ffd2f8/variables" for ::1 at 2020-05-31 12:47:00 +0530
+Started GET "/" for ::1 at 2020-05-31 12:47:06 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 709ms (ActiveRecord: 0.0ms | Allocations: 4964)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/da86388a1b5cf6ff/variables" for ::1 at 2020-05-31 12:47:07 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:47:12 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 725ms (ActiveRecord: 0.0ms | Allocations: 4963)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/a15e1b76bd4fd75f/variables" for ::1 at 2020-05-31 12:47:13 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:47:21 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 700ms (ActiveRecord: 0.0ms | Allocations: 4959)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/517883379f58d9fe/variables" for ::1 at 2020-05-31 12:47:22 +0530
+Started POST "/__better_errors/517883379f58d9fe/variables" for ::1 at 2020-05-31 12:47:44 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:49:55 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 185)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 628ms (ActiveRecord: 0.0ms | Allocations: 8933)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/d48bbfdfed6c5c79/variables" for ::1 at 2020-05-31 12:49:56 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:49:57 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+yarn run v1.22.4
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+
+error Command "webpack" not found.
+
+Completed 500 Internal Server Error in 819ms (ActiveRecord: 0.0ms | Allocations: 4961)
+
+
+
+ActionView::Template::Error - Webpacker can't find application in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:9:in `view template'
+  app/views/layouts/application.html.erb:9
+
+Started POST "/__better_errors/80976ce1463bf25b/variables" for ::1 at 2020-05-31 12:49:58 +0530
+Started GET "/posts" for ::1 at 2020-05-31 12:51:30 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 185)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /home/local/ZOHOCORP/jaya-9180/Desktop/projects/RubyOnRails/origin/public/packs
+[Webpacker] Hash: 15d1bb7b54cf6326b9ba
+Version: webpack 4.43.0
+Time: 1556ms
+Built at: 05/31/2020 12:51:33 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 2877ms (Views: 2868.8ms | ActiveRecord: 0.0ms | Allocations: 8142)
+
+
