@@ -670,3 +670,11 @@ Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9
 Completed 200 OK in 2877ms (Views: 2868.8ms | ActiveRecord: 0.0ms | Allocations: 8142)
 
 
+Started GET "/posts" for ::1 at 2020-05-31 14:04:02 +0530
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 185)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 410ms (Views: 403.7ms | ActiveRecord: 0.0ms | Allocations: 105120)
+
+
