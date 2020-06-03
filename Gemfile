@@ -52,6 +52,11 @@ group :development do
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
   # Make errors better looking
   gem 'better_errors', '~> 2.7', '>= 2.7.1'
+
+  gem 'capistrano', '~> 3.11'
+  gem 'capistrano-rails', '~> 1.4'
+  gem 'capistrano-passenger', '~> 0.2.0'
+  gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 end
 
 group :test do
