@@ -483,3 +483,10 @@
  DEBUG [43cc2b39] 	[DEPRECATED] The `--deployment` flag is deprecated because it relies on being remembered across bundler invocations, which bundler will no longer do in future versions. Instead please use `bundle config set deployment 'true'`, and stop using this flag
  DEBUG [43cc2b39] 	[DEPRECATED] The `--path` flag is deprecated because it relies on being remembered across bundler invocations, which bundler will no longer do in future versions. Instead please use `bundle config set path '/home/deploy/myapp/shared/bundle'`, and stop using this flag
  DEBUG [43cc2b39] 	[DEPRECATED] The `--without` flag is deprecated because it relies on being remembered across bundler invocations, which bundler will no longer do in future versions. Instead please use `bundle config set without 'development test'`, and stop using this flag
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-06-03 16:28:17 +0530 cap production deploy:initial
+  INFO ---------------------------------------------------------------------------
+ DEBUG [4fabcade] Running [ -d ~/.rvm ] as deploy@139.59.79.10
+ DEBUG [4fabcade] Command: [ -d ~/.rvm ]
+ DEBUG [56fcab80] Running [ -d ~/.rvm ] on 142.93.215.149
+ DEBUG [56fcab80] Command: [ -d ~/.rvm ]
