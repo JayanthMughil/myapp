@@ -2862,3 +2862,14 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 23ms (Views: 19.8ms | ActiveRecord: 1.0ms | Allocations: 4508)
 
 
+Started GET "/" for ::1 at 2020-06-05 13:09:42 +0530
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.9ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/posts/index.html.erb:5
+  Rendered posts/index.html.erb within layouts/application (Duration: 12.7ms | Allocations: 4181)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 482ms (Views: 464.9ms | ActiveRecord: 4.3ms | Allocations: 114055)
+
+
